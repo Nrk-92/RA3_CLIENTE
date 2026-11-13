@@ -1,0 +1,58 @@
+[
+  {
+    "Disco": "Las aceras están llenas de piojos",
+    "Año": 2007,
+    "Grupo": "Marea",
+    "img": "img/marea_aceras.jpg",
+    "tipo": "Rock",
+    "Canciones": [
+      { "id": 1, "Canción": "Entre hormigones", "archivo": "audio/marea_entre_hormigones.mp3" },
+      { "id": 2, "Canción": "El trapecio", "archivo": "audio/marea_el_trapecio.mp3" },
+      { "id": 3, "Canción": "Mierda y cuchara", "archivo": "audio/marea_mierda_cuchara.mp3" },
+      { "id": 4, "Canción": "Mil quilates", "archivo": "audio/marea_mil_quilates.mp3" },
+      { "id": 5, "Canción": "Petenera (en carne viva)", "archivo": "audio/marea_petenera.mp3" }
+    ]
+  },
+  {
+    "Disco": "En mi hambre mando yo",
+    "Año": 2011,
+    "Grupo": "Marea",
+    "img": "img/marea_hambre.jpg",
+    "tipo": "Rock",
+    "Canciones": [
+      { "id": 6, "Canción": "Bienvenido al secadero", "archivo": "audio/marea_bienvenido_secadero.mp3" },
+      { "id": 7, "Canción": "La majada", "archivo": "audio/marea_la_majada.mp3" },
+      { "id": 8, "Canción": "Sobran bueyes", "archivo": "audio/marea_sobran_bueyes.mp3" },
+      { "id": 9, "Canción": "El día que lluevan pianos", "archivo": "audio/marea_lluevan_pianos.mp3" },
+      { "id": 10, "Canción": "Canaleros", "archivo": "audio/marea_canaleros.mp3" }
+    ]
+  },
+  {
+    "Disco": "El azogue",
+    "Año": 2019,
+    "Grupo": "Marea",
+    "img": "img/marea_azogue.jpg",
+    "tipo": "Rock",
+    "Canciones": [
+      { "id": 11, "Canción": "En las encías", "archivo": "audio/marea_en_las_encias.mp3" },
+      { "id": 12, "Canción": "Un hierro sin domar", "archivo": "audio/marea_hierro_sin_domar.mp3" },
+      { "id": 13, "Canción": "Muchas lanzas", "archivo": "audio/marea_muchas_lanzas.mp3" },
+      { "id": 14, "Canción": "Jindama", "archivo": "audio/marea_jindama.mp3" },
+      { "id": 15, "Canción": "La noche de Viernes Santo", "archivo": "audio/marea_viernes_santo.mp3" }
+    ]
+  },
+  {
+    "Disco": "Los potros del tiempo",
+    "Año": 2022,
+    "Grupo": "Marea",
+    "img": "img/marea_potros.jpg",
+    "tipo": "Rock",
+    "Canciones": [
+      { "id": 16, "Canción": "Otra cicatriz", "archivo": "audio/marea_otra_cicatriz.mp3" },
+      { "id": 17, "Canción": "Buena muerte", "archivo": "audio/marea_buena_muerte.mp3" },
+      { "id": 18, "Canción": "Se acaba el baile", "archivo": "audio/marea_se_acaba_baile.mp3" },
+      { "id": 19, "Canción": "Nuestra fosa", "archivo": "audio/marea_nuestra_fosa.mp3" },
+      { "id": 20, "Canción": "Te voy a decir la verdad", "archivo": "audio/marea_decir_verdad.mp3" }
+    ]
+  }
+]
